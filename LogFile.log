@@ -1,0 +1,93 @@
+2023-10-25 13:16:33.578 +05:30 [INF] The Form1 Class has been processed.
+2023-10-25 13:16:36.039 +05:30 [INF] Drop Down checking.
+2023-10-25 13:16:37.391 +05:30 [INF] Drop Down checking.
+2023-10-25 13:16:38.696 +05:30 [INF] Drop Down checking.
+2023-10-25 13:16:39.286 +05:30 [INF] Drop Down checking.
+2023-10-25 13:16:39.989 +05:30 [INF] Drop Down checking.
+2023-10-25 13:16:40.486 +05:30 [INF] Drop Down checking.
+2023-10-25 13:16:43.207 +05:30 [INF] Drop Down checking.
+2023-10-25 13:16:44.479 +05:30 [INF] Drop Down checking.
+2023-10-25 13:16:44.856 +05:30 [INF] Drop Down checking.
+2023-10-25 13:16:46.465 +05:30 [INF] Search Button Has been Pressed.
+2023-10-25 13:16:46.466 +05:30 [INF] PerformSearch
+2023-10-25 13:17:43.614 +05:30 [INF] The Form1 Class has been processed.
+2023-10-25 13:17:45.657 +05:30 [INF] Drop Down checking.
+2023-10-25 13:17:48.698 +05:30 [INF] Drop Down checking.
+2023-10-25 13:17:49.390 +05:30 [INF] Prompt Query.
+2023-10-25 13:17:49.391 +05:30 [INF] PerformSearch
+2023-10-25 13:17:50.164 +05:30 [INF] Text Search query: virat kohli
+2023-10-25 13:17:50.165 +05:30 [INF] Checking if Text result present in the DB.
+2023-10-25 13:17:50.441 +05:30 [INF] Start Retrieving Text from the the DataBase
+2023-10-25 13:17:50.441 +05:30 [INF] Starting searching the Query, if it is present in the DB or not.
+2023-10-25 13:17:50.858 +05:30 [INF] Search Button Has been Pressed.
+2023-10-25 13:17:50.859 +05:30 [INF] PerformSearch
+2023-10-25 13:17:50.887 +05:30 [INF] Text Search query: virat kohli
+2023-10-25 13:17:50.888 +05:30 [INF] Checking if Text result present in the DB.
+2023-10-25 13:17:51.251 +05:30 [INF] Start Retrieving Text from the the DataBase
+2023-10-25 13:17:51.251 +05:30 [INF] Starting searching the Query, if it is present in the DB or not.
+2023-10-25 13:17:54.853 +05:30 [INF] Drop Down checking.
+2023-10-25 13:17:56.203 +05:30 [INF] Drop Down checking.
+2023-10-25 13:17:58.286 +05:30 [INF] Drop Down checking.
+2023-10-25 13:17:58.903 +05:30 [INF] Drop Down checking.
+2023-10-25 13:17:59.437 +05:30 [INF] Drop Down checking.
+2023-10-25 13:17:59.855 +05:30 [INF] Drop Down checking.
+2023-10-25 13:18:01.378 +05:30 [INF] Search Button Has been Pressed.
+2023-10-25 13:18:01.378 +05:30 [INF] PerformSearch
+2023-10-25 13:18:01.412 +05:30 [INF] Text Search query: goa
+2023-10-25 13:18:01.413 +05:30 [INF] Checking if Text result present in the DB.
+2023-10-25 13:18:11.465 +05:30 [INF] System.Text.Json.JsonDocument
+2023-10-25 13:18:11.472 +05:30 [INF] Storing the Text result in the DB.
+2023-10-26 16:05:58.685 +05:30 [INF] The Form1 Class has been processed.
+2023-10-26 16:06:01.086 +05:30 [INF] Drop Down checking.
+2023-10-26 16:06:02.569 +05:30 [INF] Drop Down checking.
+2023-10-26 16:06:04.834 +05:30 [INF] Drop Down checking.
+2023-10-26 16:06:05.462 +05:30 [INF] Prompt Query.
+2023-10-26 16:06:05.463 +05:30 [INF] PerformSearch
+2023-10-26 16:06:06.078 +05:30 [INF] Text Search query: goa
+2023-10-26 16:06:06.079 +05:30 [INF] Checking if Text result present in the DB.
+2023-10-26 16:06:06.521 +05:30 [INF] Start Retrieving Text from the the DataBase
+2023-10-26 16:06:06.522 +05:30 [INF] Starting searching the Query, if it is present in the DB or not.
+2023-10-26 16:06:07.000 +05:30 [INF] Prompt Query.
+2023-10-26 16:06:07.000 +05:30 [INF] PerformSearch
+2023-10-26 16:06:07.026 +05:30 [INF] Text Search query: goa
+2023-10-26 16:06:07.026 +05:30 [INF] Checking if Text result present in the DB.
+2023-10-26 16:06:07.371 +05:30 [INF] Start Retrieving Text from the the DataBase
+2023-10-26 16:06:07.372 +05:30 [INF] Starting searching the Query, if it is present in the DB or not.
+2023-10-26 16:06:08.940 +05:30 [INF] Finish
+2023-11-10 01:40:25.442 +05:30 [INF] The Form1 Class has been processed.
+2023-11-10 01:40:28.957 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:39.520 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:40.109 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:40.534 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:40.874 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:41.904 +05:30 [INF] Prompt Query.
+2023-11-10 01:40:41.905 +05:30 [INF] PerformSearch
+2023-11-10 01:40:42.823 +05:30 [INF] Text Search query: India
+2023-11-10 01:40:42.823 +05:30 [INF] Checking if Text result present in the DB.
+2023-11-10 01:40:50.693 +05:30 [INF] System.Text.Json.JsonDocument
+2023-11-10 01:40:50.701 +05:30 [INF] Storing the Text result in the DB.
+2023-11-10 01:40:54.512 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:54.867 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:55.303 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:55.666 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:56.010 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:57.214 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:57.557 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:57.902 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:58.237 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:58.578 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:58.869 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:59.187 +05:30 [INF] Drop Down checking.
+2023-11-10 01:40:59.548 +05:30 [INF] Drop Down checking.
+2023-11-10 01:41:00.154 +05:30 [INF] Drop Down checking.
+2023-11-10 01:41:00.628 +05:30 [INF] Drop Down checking.
+2023-11-10 01:41:00.958 +05:30 [INF] Drop Down checking.
+2023-11-10 01:41:01.288 +05:30 [INF] Drop Down checking.
+2023-11-10 01:41:01.690 +05:30 [INF] Drop Down checking.
+2023-11-10 01:41:02.000 +05:30 [INF] Prompt Query.
+2023-11-10 01:41:02.001 +05:30 [INF] PerformSearch
+2023-11-10 01:41:02.225 +05:30 [INF] ImageSearch: pic of  india
+2023-11-10 01:41:11.926 +05:30 [INF] pic of  india
+2023-11-10 01:41:11.930 +05:30 [INF] pic of  india
+2023-11-10 01:41:13.045 +05:30 [INF] Saving image to the DB.
+2023-11-10 01:41:15.955 +05:30 [INF] Finish
